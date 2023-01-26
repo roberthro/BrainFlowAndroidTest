@@ -18,6 +18,13 @@
     <string name="ip_address_summary">Optional: can be discovered automatically</string>
     <string name="ip_port_key">ip_port_key</string>
     <string name="ip_port_summary">Required for WIFI Shield</string>
+    <string name="serial_num_key">serial_number</string>
+    <string name="serial_num_summary">Required for USB dongle</string>
+    <string name="serial_num_title">Serial Number</string>
+
+    <string name="serial_port_key">serial_port</string>
+    <string name="serial_port_summary">Required for USB dongle</string>
+    <string name="serial_port_title">Serial Port</string>
 
     <!-- Settings Activity Title -->
     <string name="title_activity_settings">Settings</string>

@@ -22,6 +22,16 @@
             app:summary="@string/ip_port_summary"
             app:title="@string/ip_port_title"
             app:useSimpleSummaryProvider="false" />
+        <EditTextPreference
+            app:key="@string/serial_num_key"
+            app:summary="@string/serial_num_summary"
+            app:title="@string/serial_num_title"
+            app:useSimpleSummaryProvider="false" />
+        <EditTextPreference
+            app:key="@string/serial_port_key"
+            app:summary="@string/serial_port_summary"
+            app:title="@string/serial_port_title"
+            app:useSimpleSummaryProvider="false" />
 
     </PreferenceCategory>
 

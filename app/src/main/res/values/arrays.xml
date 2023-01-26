@@ -2,6 +2,7 @@
     <!-- Board ID Preference -->
     <string-array name="board_id_entries">
         <item>Synthetic</item>
+        <item>Cyton</item>
         <item>Ganglion WIFI</item>
         <item>Cyton WIFI</item>
         <item>Cyton Daisy WIFI</item>
@@ -9,6 +10,7 @@
 
     <string-array name="board_id_values">
         <item>-1</item>
+        <item>0</item>
         <item>4</item>
         <item>5</item>
         <item>6</item>

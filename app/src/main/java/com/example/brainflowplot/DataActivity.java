@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.os.Handler;
 import android.util.Log;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -15,11 +14,9 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.NavigationUI;
 import androidx.preference.PreferenceManager;
 
-import brainflow.AggOperations;
 import brainflow.BoardShim;
 import brainflow.BrainFlowError;
 import brainflow.BrainFlowInputParams;
-import brainflow.DataFilter;
 
 public class DataActivity extends AppCompatActivity {
 
