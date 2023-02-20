@@ -8,6 +8,8 @@
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="Android Studio java home" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-6.1.1-all/gradle-6.1.1" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
